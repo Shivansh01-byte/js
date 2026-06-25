@@ -1,0 +1,30 @@
+let score = "33abc"
+console.log(typeof score)
+console.log(typeof (score))
+let valueInNumber = Number(score)
+console.log(typeof valueInNumber)
+console.log(valueInNumber)
+let more = null   
+console.log(typeof more)
+console.log(typeof (more))
+let valueInVAR = Number(more)
+console.log(typeof valueInVAR)
+console.log(valueInVAR)
+let y = undefined   
+console.log(typeof y)
+console.log(typeof (y))
+let valueInvar = Number (y)
+console.log(typeof valueInvar)
+console.log(valueInvar)
+// let bool = true
+// console.log(typeof bool)
+// console.log(typeof (bool))
+// let valueInboli = Number (bool)
+// console.log(typeof valueInboli)
+// console.log(valueInboli)
+let bool = 1
+console.log(typeof bool)
+console.log(typeof (bool))
+let valueInboli = Number (bool)
+console.log(typeof valueInboli)
+console.log(valueInboli)
