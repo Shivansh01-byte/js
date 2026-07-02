@@ -18,7 +18,7 @@ function sayMyName(){
 //     return result
     //  console.log("Shivansh").   ===>does not executes after return statement
 // }
-// const result = addTwoNumbers(3,5)
+// const result = 'jjd'
 // console.log("Result:",result)
 // addTwoNumbers(3,7)
 // addTwoNumbers(3,"6")
@@ -34,3 +34,4 @@ function sayMyName(){
 // }
 //     console.log(loginUserMessage("Shivansh"))
 //     console.log(loginUserMessage()) 
+" `${kd}"
